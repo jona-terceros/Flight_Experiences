@@ -1,1 +1,16 @@
-None at the moment.
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.1
+scikit-learn==1.1.3
+tensorflow==2.10.0
+jupyter==1.0.0
+
+Description of each package: 
+ - pandas: For data manipulation and analysis.
+ - numpy: For mathematical operations and array management.
+ - matplotlib: For creating basic graphs and visualizations.
+ - seaborn: To create more attractive statistical visualizations.
+ - scikit-learn: For data preprocessing and model evaluation.
+ - tensorflow: To create and train neural networks.
+ - jupyter: To create and share documents containing code, visualizations, and narrative text.
